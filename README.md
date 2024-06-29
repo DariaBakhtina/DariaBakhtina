@@ -84,3 +84,14 @@
   <img src="https://cdn.icon-icons.com/icons2/3398/PNG/512/windows_logo_icon_214749.png" title="win_10" alt="win_10" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/virtualbox_logo_icon_169253.png" title="oracle" alt="oracle" width="40" height="40"/>&nbsp
 </div>
+
+---
+
+### 📝 Тестовые артефакты, сделанные в течение курса:
+- [Теория тестирования](https://github.com/DariaBakhtina/theory)
+- [Техники тест-дизайна](https://github.com/DariaBakhtina/design)
+- [Тестовая документация: тест-план, чек-лист, тест-кейсы, баг-репорты](https://github.com/DariaBakhtina/docs)
+- [Тестирование API с помощью Postman, Charles Proxy](https://github.com/DariaBakhtina/api)
+- [Работа с Базами данных](https://github.com/DariaBakhtina/database)
+- [Тестирование мобильного приложения](https://github.com/DariaBakhtina/mobile)
+- [Практика с GitBash](https://github.com/DariaBakhtina/git_bash)
