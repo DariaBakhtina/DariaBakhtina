@@ -32,7 +32,7 @@
   <img src="https://www.windows-soft.ru/cache_image/kupit-kaiten-enterprise-po-dostupnoy-tsene.jpg" title="kaiten" alt="kaiten" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png" title="trello" alt="trello" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/notion_logo_icon_145025.png" title="notion" alt="notion" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/notion_logo_icon_147257.png" title="notion" alt="notion" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
@@ -81,7 +81,7 @@
 
 <div>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ubuntu_plain_wordmark_logo_icon_146632.png" title="linux_ubuntu" alt="linux_ubuntu" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3398/PNG/512/windows_logo_icon_214749.png" title="win_10" alt="win_10" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/2235/PNG/512/windows_os_logo_icon_134674.png" title="win_10" alt="win_10" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/virtualbox_logo_icon_169253.png" title="oracle" alt="oracle" width="40" height="40"/>&nbsp
 </div>
 
