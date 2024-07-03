@@ -10,7 +10,7 @@
 - участие в нескольких проектах по тестированию *[веб-приложений](https://github.com/DariaBakhtina/Portfolio-web-)*
 - участие в паре проектов по тестированию *[мобильных приложений](https://github.com/DariaBakhtina/Portfolio-mobile-)*
 
-### 📄 [Моё портфолио](https://drive.google.com/file/d/1cjtFcCyLypcV-Qp6vmeYQCIylZ3HBdao/view?usp=sharing)
+### 📄 [Моё резюме](https://drive.google.com/file/d/1cjtFcCyLypcV-Qp6vmeYQCIylZ3HBdao/view?usp=sharing)
 
 ### 🤝 Связь со мной:
 
