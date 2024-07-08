@@ -15,7 +15,7 @@
 ### 🤝 Связь со мной:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/%D0%B4%D0%B0%D1%80%D1%8C%D1%8F-%D0%B1-634b18301/" target="_blank">
+    <a href="www.linkedin.com/in/daria--bakhtina" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/dorsto" target="_blank">
